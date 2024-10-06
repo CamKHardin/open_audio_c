@@ -1,0 +1,108 @@
+Running WAV file tests...
+Testing: ./tests/invalid_corrupt_header.wav
+Test failed: ./tests/invalid_corrupt_header.wav
+Testing: ./tests/invalid_truncated_data.wav
+Test passed: ./tests/invalid_truncated_data.wav
+Testing: ./tests/invalid_zero_data_size.wav
+Test failed: ./tests/invalid_zero_data_size.wav
+Testing: ./tests/valid_16bit_mono_11025.wav
+Test passed: ./tests/valid_16bit_mono_11025.wav
+Testing: ./tests/valid_16bit_mono_192000.wav
+Test passed: ./tests/valid_16bit_mono_192000.wav
+Testing: ./tests/valid_16bit_mono_22050.wav
+Test passed: ./tests/valid_16bit_mono_22050.wav
+Testing: ./tests/valid_16bit_mono_44100.wav
+Test passed: ./tests/valid_16bit_mono_44100.wav
+Testing: ./tests/valid_16bit_mono_48000.wav
+Test passed: ./tests/valid_16bit_mono_48000.wav
+Testing: ./tests/valid_16bit_mono_96000.wav
+Test passed: ./tests/valid_16bit_mono_96000.wav
+Testing: ./tests/valid_16bit_stereo_11025.wav
+Test passed: ./tests/valid_16bit_stereo_11025.wav
+Testing: ./tests/valid_16bit_stereo_192000.wav
+Test passed: ./tests/valid_16bit_stereo_192000.wav
+Testing: ./tests/valid_16bit_stereo_22050.wav
+Test passed: ./tests/valid_16bit_stereo_22050.wav
+Testing: ./tests/valid_16bit_stereo_44100.wav
+Test passed: ./tests/valid_16bit_stereo_44100.wav
+Testing: ./tests/valid_16bit_stereo_48000.wav
+Test passed: ./tests/valid_16bit_stereo_48000.wav
+Testing: ./tests/valid_16bit_stereo_96000.wav
+Test passed: ./tests/valid_16bit_stereo_96000.wav
+Testing: ./tests/valid_24bit_mono_11025.wav
+Test passed: ./tests/valid_24bit_mono_11025.wav
+Testing: ./tests/valid_24bit_mono_192000.wav
+Test passed: ./tests/valid_24bit_mono_192000.wav
+Testing: ./tests/valid_24bit_mono_22050.wav
+Test passed: ./tests/valid_24bit_mono_22050.wav
+Testing: ./tests/valid_24bit_mono_44100.wav
+Test passed: ./tests/valid_24bit_mono_44100.wav
+Testing: ./tests/valid_24bit_mono_48000.wav
+Test passed: ./tests/valid_24bit_mono_48000.wav
+Testing: ./tests/valid_24bit_mono_96000.wav
+Test passed: ./tests/valid_24bit_mono_96000.wav
+Testing: ./tests/valid_24bit_stereo_11025.wav
+Test passed: ./tests/valid_24bit_stereo_11025.wav
+Testing: ./tests/valid_24bit_stereo_192000.wav
+Test passed: ./tests/valid_24bit_stereo_192000.wav
+Testing: ./tests/valid_24bit_stereo_22050.wav
+Test passed: ./tests/valid_24bit_stereo_22050.wav
+Testing: ./tests/valid_24bit_stereo_44100.wav
+Test passed: ./tests/valid_24bit_stereo_44100.wav
+Testing: ./tests/valid_24bit_stereo_48000.wav
+Test passed: ./tests/valid_24bit_stereo_48000.wav
+Testing: ./tests/valid_24bit_stereo_96000.wav
+Test passed: ./tests/valid_24bit_stereo_96000.wav
+Testing: ./tests/valid_32bit_mono_11025.wav
+Test passed: ./tests/valid_32bit_mono_11025.wav
+Testing: ./tests/valid_32bit_mono_192000.wav
+Test passed: ./tests/valid_32bit_mono_192000.wav
+Testing: ./tests/valid_32bit_mono_22050.wav
+Test passed: ./tests/valid_32bit_mono_22050.wav
+Testing: ./tests/valid_32bit_mono_44100.wav
+Test passed: ./tests/valid_32bit_mono_44100.wav
+Testing: ./tests/valid_32bit_mono_48000.wav
+Test passed: ./tests/valid_32bit_mono_48000.wav
+Testing: ./tests/valid_32bit_mono_96000.wav
+Test passed: ./tests/valid_32bit_mono_96000.wav
+Testing: ./tests/valid_32bit_stereo_11025.wav
+Test passed: ./tests/valid_32bit_stereo_11025.wav
+Testing: ./tests/valid_32bit_stereo_192000.wav
+Test passed: ./tests/valid_32bit_stereo_192000.wav
+Testing: ./tests/valid_32bit_stereo_22050.wav
+Test passed: ./tests/valid_32bit_stereo_22050.wav
+Testing: ./tests/valid_32bit_stereo_44100.wav
+Test passed: ./tests/valid_32bit_stereo_44100.wav
+Testing: ./tests/valid_32bit_stereo_48000.wav
+Test passed: ./tests/valid_32bit_stereo_48000.wav
+Testing: ./tests/valid_32bit_stereo_96000.wav
+Test passed: ./tests/valid_32bit_stereo_96000.wav
+Testing: ./tests/valid_8bit_mono_11025.wav
+Test passed: ./tests/valid_8bit_mono_11025.wav
+Testing: ./tests/valid_8bit_mono_192000.wav
+Test passed: ./tests/valid_8bit_mono_192000.wav
+Testing: ./tests/valid_8bit_mono_22050.wav
+Test passed: ./tests/valid_8bit_mono_22050.wav
+Testing: ./tests/valid_8bit_mono_44100.wav
+Test passed: ./tests/valid_8bit_mono_44100.wav
+Testing: ./tests/valid_8bit_mono_48000.wav
+Test passed: ./tests/valid_8bit_mono_48000.wav
+Testing: ./tests/valid_8bit_mono_96000.wav
+Test passed: ./tests/valid_8bit_mono_96000.wav
+Testing: ./tests/valid_8bit_stereo_11025.wav
+Test passed: ./tests/valid_8bit_stereo_11025.wav
+Testing: ./tests/valid_8bit_stereo_192000.wav
+Test passed: ./tests/valid_8bit_stereo_192000.wav
+Testing: ./tests/valid_8bit_stereo_22050.wav
+Test passed: ./tests/valid_8bit_stereo_22050.wav
+Testing: ./tests/valid_8bit_stereo_44100.wav
+Test passed: ./tests/valid_8bit_stereo_44100.wav
+Testing: ./tests/valid_8bit_stereo_48000.wav
+Test passed: ./tests/valid_8bit_stereo_48000.wav
+Testing: ./tests/valid_8bit_stereo_96000.wav
+Test passed: ./tests/valid_8bit_stereo_96000.wav
+
+Total tests: 51
+Passed: 49
+Failed: 2
+Some tests failed! Check test_results.log for details.
